@@ -26,3 +26,4 @@ int main() {
     if (all_passed) std::cout << "ALL TESTS PASSED\n"; else std::cout << "SOME TESTS FAILED\n";
     return all_passed ? 0 : 1;
 }
+
